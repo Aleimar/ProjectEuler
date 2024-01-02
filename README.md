@@ -1,11 +1,9 @@
 # ProjectEuler
 Solutions to project euler problems.
 
+I want to get better at computer programming. So, I made this special place where I can practice and really understand how to do it well.
 
-I want to practice and enhance my computer programming thinking. I created this repository to practice and master the art of computer programming.
-
-
-Each folder will contain a txt file for the problem definition and the solution in another programming file; which could be written in any programming language randomly chosen by randomizer.py.
+In every folder, you'll find a text file explaining the problem and another file with the solution, written in a programming language randomly selected by a tool called randomizer.py.
 
 ## How to compile and run in each language
 
@@ -57,14 +55,14 @@ Java will create a program called test.
 ```
 python test.py
 ```
-Python, as a scripting language, will not create program/executable files.
+Python, as a scripting language, doesn't produce standalone program or executable files.
 
 # JavaScript (Node.js)
 
 ```
 node test.js
 ```
-JavaScript, as a scripting language, will not create program/executable files.
+JavaScript, as a scripting language, doesn't produce standalone program or executable files.
 
 # Scala
 
