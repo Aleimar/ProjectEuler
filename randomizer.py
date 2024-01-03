@@ -9,4 +9,4 @@ programming_list=['C', 'C++', 'C#', 'Java', 'Python', 'Javascript (Node)', 'Scal
 random_pl = random.choice(programming_list)
 
 #Display PL of the problem
-print("Solve problem using:" , random_pl)
+print("Solve the problem using:" , random_pl)

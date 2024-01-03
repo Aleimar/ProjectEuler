@@ -3,6 +3,8 @@ Solutions to project euler problems.
 
 I want to get better at computer programming. So, I made this special place where I can practice and really understand how to do it well.
 
+I believe good computer programming should be able to work with any language. So, to make things more interesting, I'll solve these problems using different languages I know, such as C, Java, Python, Scala, and maybe some others.
+
 In every folder, you'll find a text file explaining the problem and another file with the solution, written in a programming language randomly selected by a tool called randomizer.py.
 
 ## How to compile and run in each language
