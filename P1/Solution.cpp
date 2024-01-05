@@ -23,7 +23,3 @@ int main() {
 
     return 0;
 }
-
-// How to run a cpp file in Mac
-// clang++ -o Solution Solution.cpp -- where foo is a pro
-// ./Solution
