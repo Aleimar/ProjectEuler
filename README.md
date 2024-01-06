@@ -1,5 +1,5 @@
 # ProjectEuler
-Solutions to project euler problems.
+Solutions to [Project Euler](https://projecteuler.net/archives) problems.
 
 I want to get better at computer programming. So, I made this special place where I can practice and really understand how to do it well.
 
