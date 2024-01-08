@@ -28,21 +28,6 @@ clang++ -o test test.cpp
 ```
 C++ will create an executable file called test.
 
-# C#
-
-Navigate to directory where *test.cs* is located
-
-```
-dotnet new console
-dotnet run
-```
-C# will create a console containing the solution.
-
-In cases where there are multiple *.cs* files in the directory and a specific one is needed to run, use the following command:
-```
-dotnet script test1.cs
-```
-
 
 # Java
 
