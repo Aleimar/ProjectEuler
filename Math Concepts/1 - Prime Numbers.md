@@ -54,6 +54,9 @@ p = $\frac{m^2}{n^2}$
 
 $n^2 * p= m^2$   or  $m^2 = p * n^2$
 
+<br>
+<br>
+
 Now let's investigate the following cases:
 
 1. <ins>If prime **p** is a unique prime factorization of $n^2$ then:</ins>
