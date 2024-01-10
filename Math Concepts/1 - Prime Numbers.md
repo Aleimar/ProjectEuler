@@ -7,7 +7,7 @@ recalled this specific property of prime numbers.
 
 Let's assume *p* is any prime number and that $\sqrt{p}$ is rational.
 
-Then, there are natural numbers *m* and *n* where $n\not$0 such that:
+Then, there are natural numbers *m* and *n* where n $\neq$ 0 such that:
 
 $\sqrt{p}$ = $\frac{m}{n}$
 
