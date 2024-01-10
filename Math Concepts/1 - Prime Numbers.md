@@ -35,11 +35,11 @@ $b^2 = p_1^{2n_1} * p_2^{2n_2} * p_3^{2n_3} ... p_n^{2n_j}$
 
 Always remember: Squaring the prime factors of an integer *b* makes **all the exponents even** because multiplying any number by 2 results in an even number.
 
-Now, let's get back to proving that <ins>{**the square root of any prime number is irrational.**}</ins>
+Now, let's get back to proving that <ins>**the square root of any prime number is irrational.**</ins>
 
 ## Proof by contradiction
 
-Let's assume \underline{*p* is any prime number and that $\sqrt{p}$ is rational.}
+Let's assume <ins>*p* is any prime number and that $\sqrt{p}$ is rational.</ins>
 
 Then, there are natural numbers *m* and *n* where n $\neq$ 0 such that:
 
@@ -51,14 +51,14 @@ $n^2 * p= m^2 or m^2 = p * n^2$
 
 Now let's investigate the following cases:
 
-1. \underline{If prime **p** is a unique prime factorization of $n^2$ then:}
+1. <ins>If prime **p** is a unique prime factorization of $n^2$ then:</ins>
 
 $n^2 = p * p^2k * ...$
 $n^2 = p^2k+1 * ...$
 
 The 2k+1 power always yield an odd number power which doesn't make sense, thus contradicting our initial assumption.
 
-2. \underline{If prime **p** is not included in the unique prime factors of $n^2$ then:}
+2. <ins>If prime **p** is not included in the unique prime factors of $n^2$ then:</ins>
 
 $n^2 = p * q^2k ...$
 
@@ -67,4 +67,4 @@ The p will always have a power by 1 which is an odd number, thus contradicting o
 
 In both cases, we have contradictions because  $m^2$ will always have prime factors with even exponents.
 
-In conclusion, we reject our initial assumption that \underline{the $\sqrt{p}$, any prime number *p*,  is rational.} And proved by contradiction that \underline{$\sqrt{p}$, ant prime number *p*, is irrational.}
+In conclusion, we reject our initial assumption that <ins>the $\sqrt{p}$, any prime number *p*,  is rational.</ins> And proved by contradiction that <ins>$\sqrt{p}$, ant prime number *p*, is irrational.</ins>
