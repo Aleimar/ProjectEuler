@@ -37,8 +37,8 @@ $a^2 = p_1^{2n_1} * p_2^{2n_2} * p_3^{2n_3} ... p_n^{2n_j}$
 
 <ins>**Always remember:**</ins> Squaring the prime factors of an integer *a* makes **all the exponents even** because multiplying any number by 2 results in an even number.
 
-&nbsp
-&nbsp
+<br>
+<br>
 
 Now, let's get back to proving that <ins>**the square root of any prime number is irrational.**</ins>
 
@@ -63,8 +63,8 @@ $n^2 = p^{2k+1} * ...$
 
 The 2k+1 power always yield an odd number power which contradicts our initial assumption.
 
-&nbsp
-&nbsp
+<br>
+<br>
 
 2. <ins>If prime **p** is not included in the unique prime factors of $n^2$ then:</ins>
 
@@ -72,9 +72,9 @@ $n^2 = p * q^{2k} ...$
 
 The prime *p* will always have a power by 1 which is an odd number, thus contradicting our initial assumption.
 
-&nbsp
-&nbsp
+<br>
+<br>
 In both cases, we have contradictions because  $m^2$ will always have prime factors with even exponents.
 
-&nbsp
+<br>
 In conclusion, we reject our initial assumption that, for  any prime number *p*, <ins>the $\sqrt{p}$  is rational</ins> and proved by contradiction that <ins>$\sqrt{p}$ is irrational.</ins>
