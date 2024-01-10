@@ -18,28 +18,32 @@ EXAMPLE:
 Observe *a*:
 
 a = 20 = 2 * 2 * 5 = $2^2 * 5$ 
+
 $a^2 = (20)^2 = (2^2)^2 * (5)^2 = 2^4 * 5^2$
 
 After squaring the integer *a*, **the exponents of the unique prime factors of *a* are now ALL even numbers.**
 
+
 Generally, this would be:
 
-For every integer *b*, here is the factorization of integer *b* into its prime constituents:
+For every integer *a*, here is the factorization of integer *a* into its prime constituents:
 
-$b = p_1^{n_1} * p_2^{n_2} * p_3^{n_3} ... p_n^{n_j}$
+$a = p_1^{n_1} * p_2^{n_2} * p_3^{n_3} ... p_n^{n_j}$
 
-Then when we square the prime factorization of integer *b*, we would get:
+Then when we square the prime factorization of integer *a*, we would get:
 
-$b^2 = (p_1^{n_1} * p_2^{n_2} * p_3^{n_3} ... p_n^{n_j})^2$
-$b^2 = p_1^{2n_1} * p_2^{2n_2} * p_3^{2n_3} ... p_n^{2n_j}$
+$a^2 = (p_1^{n_1} * p_2^{n_2} * p_3^{n_3} ... p_n^{n_j})^2$
+$a^2 = p_1^{2n_1} * p_2^{2n_2} * p_3^{2n_3} ... p_n^{2n_j}$
 
-Always remember: Squaring the prime factors of an integer *b* makes **all the exponents even** because multiplying any number by 2 results in an even number.
+<ins>**Always remember:**</ins> Squaring the prime factors of an integer *a* makes **all the exponents even** because multiplying any number by 2 results in an even number.
+
+
 
 Now, let's get back to proving that <ins>**the square root of any prime number is irrational.**</ins>
 
 ## Proof by contradiction
 
-Let's assume <ins>*p* is any prime number and that $\sqrt{p}$ is rational.</ins>
+Let's assume that for any prime number *p*, <ins>the $\sqrt{p}$  is rational.</ins> 
 
 Then, there are natural numbers *m* and *n* where n $\neq$ 0 such that:
 
@@ -47,24 +51,28 @@ $\sqrt{p}$ = $\frac{m}{n}$
 
 p = $\frac{m^2}{n^2}$
 
-$n^2 * p= m^2 or m^2 = p * n^2$
+$n^2 * p= m^2   or  m^2 = p * n^2$
 
 Now let's investigate the following cases:
 
 1. <ins>If prime **p** is a unique prime factorization of $n^2$ then:</ins>
 
-$n^2 = p * p^2k * ...$
-$n^2 = p^2k+1 * ...$
+$n^2 = p * p^{2k} * ...$
+$n^2 = p^{2k+1} * ...$
 
-The 2k+1 power always yield an odd number power which doesn't make sense, thus contradicting our initial assumption.
+The 2k+1 power always yield an odd number power which contradicts our initial assumption.
+
+
 
 2. <ins>If prime **p** is not included in the unique prime factors of $n^2$ then:</ins>
 
-$n^2 = p * q^2k ...$
+$n^2 = p * q^{2k} ...$
 
-The p will always have a power by 1 which is an odd number, thus contradicting our initial assumption.
+The prime *p* will always have a power by 1 which is an odd number, thus contradicting our initial assumption.
+
 
 
 In both cases, we have contradictions because  $m^2$ will always have prime factors with even exponents.
+
 
 In conclusion, we reject our initial assumption that, for  any prime number *p*, <ins>the $\sqrt{p}$  is rational</ins> and proved by contradiction that <ins>$\sqrt{p}$ is irrational.</ins>
