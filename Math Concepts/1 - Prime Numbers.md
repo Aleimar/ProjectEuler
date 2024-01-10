@@ -67,4 +67,4 @@ The p will always have a power by 1 which is an odd number, thus contradicting o
 
 In both cases, we have contradictions because  $m^2$ will always have prime factors with even exponents.
 
-In conclusion, we reject our initial assumption that <ins>the $\sqrt{p}$, any prime number *p*,  is rational.</ins> And proved by contradiction that <ins>$\sqrt{p}$, ant prime number *p*, is irrational.</ins>
+In conclusion, we reject our initial assumption that, for  any prime number *p*, <ins>the $\sqrt{p}$  is rational</ins> and proved by contradiction that <ins>$\sqrt{p}$ is irrational.</ins>
