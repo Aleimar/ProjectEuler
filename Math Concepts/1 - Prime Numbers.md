@@ -58,6 +58,7 @@ $n^2 * p= m^2$   or  $m^2 = p * n^2$
 <br>
 
 Now let's investigate the following cases:
+<br>
 
 1. <ins>If prime **p** is a unique prime factorization of $n^2$ then:</ins>
 
@@ -75,7 +76,6 @@ $n^2 = p * q^{2k} ...$
 
 The prime *p* will always have a power by 1 which is an odd number, thus contradicting our initial assumption.
 
-<br>
 <br>
 In both cases, we have contradictions because  $m^2$ will always have prime factors with even exponents.
 
