@@ -11,4 +11,4 @@ Then, there are natural numbers *m* and *n* such that:
 
 $\sqrt{p}$ = $\frac{m}{n}$
 
-p = $\frac{$m^2$}{$n^2$}$
+p = $\frac{m^2}{n^2}$
