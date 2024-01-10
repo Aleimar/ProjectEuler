@@ -35,7 +35,7 @@ $b^2 = p_1^{2n_1} * p_2^{2n_2} * p_3^{2n_3} ... p_n^{2n_j}$
 
 Always remember: Squaring the prime factors of an integer *b* makes **all the exponents even** because multiplying any number by 2 results in an even number.
 
-Now, let's get back to proving that \underline{**the square root of any prime number is irrational.**}
+Now, let's get back to proving that <u>{**the square root of any prime number is irrational.**}</u>
 
 ## Proof by contradiction
 
